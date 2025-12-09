@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 Author: Sizemore
 User name: Sizemore
 Date: 12/8/2025
 License: MIT Open Source Initiative
 Version: 1.5
 
+=======
+>>>>>>> parent of 5316e90 (Document header added)
 GIT INSTALL
 
 GitHub for Windows https://windows.github.com GitHub for Mac https://mac.github.com
